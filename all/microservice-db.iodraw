@@ -20,7 +20,7 @@
           <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-5" value="User Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-6" value="Product Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
