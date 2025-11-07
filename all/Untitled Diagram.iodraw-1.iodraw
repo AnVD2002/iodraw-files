@@ -7,6 +7,9 @@
         <mxCell id="zERO1AN104NPdb36QzHr-1" value="EVPT2 System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zERO1AN104NPdb36QzHr-2" value="E-commerce System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
