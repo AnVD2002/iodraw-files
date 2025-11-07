@@ -11,7 +11,7 @@
           <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-2" value="Common lib" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-3" value="Bom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="180" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-9" value="Schedule Job Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
