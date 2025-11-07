@@ -11,7 +11,7 @@
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-3" value="Core-API System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-4" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="425" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-8" value="NOC System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-9" value="VTMan Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="120" height="80" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-11" value="EVPT2 Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.783;exitY=0.963;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="zERO1AN104NPdb36QzHr-10" target="zERO1AN104NPdb36QzHr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
