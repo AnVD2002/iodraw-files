@@ -32,7 +32,10 @@
           <mxGeometry x="150" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-10" value="Viettel Post Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="360" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zERO1AN104NPdb36QzHr-11" value="EVPT2 Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
