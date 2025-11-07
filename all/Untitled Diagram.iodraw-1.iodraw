@@ -23,7 +23,10 @@
           <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-7" value="Worker-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zERO1AN104NPdb36QzHr-8" value="NOC System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
