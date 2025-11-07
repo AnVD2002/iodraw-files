@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zERO1AN104NPdb36QzHr-1" value="EVPT2 System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-2" value="E-commerce System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-3" value="Core-API System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-4" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-5" value="Notification-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-6" value="Worker-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="120" height="60" as="geometry" />
