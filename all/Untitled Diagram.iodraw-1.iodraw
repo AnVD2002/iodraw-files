@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zERO1AN104NPdb36QzHr-1" value="EVPT2 System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-2" value="E-commerce System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-3" value="Core-API System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-4" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-8" value="NOC System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-9" value="VTMan Client" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="50" width="120" height="80" as="geometry" />
