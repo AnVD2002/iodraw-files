@@ -52,6 +52,9 @@
         <mxCell id="jLTW0VdN23nRfVAPCjwp-15" value="Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BdmbuUNMcRPTgYelAgqq-0" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="70" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
