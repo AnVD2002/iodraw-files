@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zERO1AN104NPdb36QzHr-1" value="EVPT2 System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-2" value="E-commerce System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-3" value="Core-API System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-4" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-5" value="Notification-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-6" value="Worker-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zERO1AN104NPdb36QzHr-7" value="Worker-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
