@@ -16,8 +16,8 @@
         <mxCell id="jLTW0VdN23nRfVAPCjwp-3" value="Bom" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jLTW0VdN23nRfVAPCjwp-4" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="jLTW0VdN23nRfVAPCjwp-4" value="Account Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
