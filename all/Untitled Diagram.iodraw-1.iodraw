@@ -16,8 +16,8 @@
         <mxCell id="zERO1AN104NPdb36QzHr-4" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zERO1AN104NPdb36QzHr-5" value="Plat-form&amp;nbsp; Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="zERO1AN104NPdb36QzHr-5" value="Notification-Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
