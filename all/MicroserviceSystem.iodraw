@@ -31,7 +31,7 @@
         <mxCell id="jLTW0VdN23nRfVAPCjwp-8" value="Payment Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jLTW0VdN23nRfVAPCjwp-9" value="Schedule Job Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="jLTW0VdN23nRfVAPCjwp-9" value="Schedule Job" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-10" value="Report Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
