@@ -8,7 +8,7 @@
           <mxGeometry x="294" y="10" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-1" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-2" value="Common lib" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
