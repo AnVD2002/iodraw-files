@@ -32,7 +32,7 @@
           <mxGeometry x="30" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-9" value="Schedule Job Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jLTW0VdN23nRfVAPCjwp-10" value="Report Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="490" y="480" width="120" height="60" as="geometry" />
